@@ -1,8 +1,10 @@
 # ERP_group3
+Two different instances of the DBC experiment, per subject predictions not possible. Per item instead
+90 sentences
 For each sentence there are 3 conditions (baseline, even related, even urelated)
 We average the reading time per sentence-condition
 For each electrode we get the N400 and P600 components per sentence-condition
-We predict reading time from N400 and P600 per condition, that is 90 sentences
+We predict reading time from N400 and P600 per condition
 The linear regression revealed that for each condition there are certain electrode that perform better. when we take the best electrodes for each condition and use them in linear regression we get these result:
 
 !TO DO!:
