@@ -1,7 +1,7 @@
 # ERP_group3
 Two different instances of the DBC experiment, per subject predictions not possible. Per item instead
 90 sentences
-For each sentence there are 3 conditions (baseline, even related, even urelated)
+For each sentence there are 3 conditions (baseline, event related, event urelated)
 We average the reading time per sentence-condition
 For each electrode we get the N400 and P600 components per sentence-condition
 We predict reading time from N400 and P600 per condition
